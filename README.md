@@ -1,4 +1,5 @@
-# NGS-data-processing
+# NGS-Sequences to Counts_PFM_PSSM calculator
+
 To calculate the Counts, PFM and PSSM from NGS sequencing data (amino acids)
 
 List your reads as:
